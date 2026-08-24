@@ -4,6 +4,7 @@
 
 <center>
   <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeno2301&style=flat-square&color=blue" alt=""/>
   <a href="https://t.me/itsszeno">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
