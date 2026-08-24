@@ -35,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+---
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **zeno2301/zeno2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
