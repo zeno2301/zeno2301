@@ -4,14 +4,14 @@
 
 <p align="center">
   <!-- Бадж Telegram -->
-  <a href="https://t.me/itsszeno" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://jsdelivr.net" alt="Telegram" width="40" height="40" style="vertical-align: middle;"/>
+  <div id="badges">
+  <a href="https://t.me/itsszeno">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
-  <!-- Бадж YouTube -->
-  <a href="https://youtube.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://jsdelivr.net" alt="YouTube" width="40" height="40" style="vertical-align: middle;"/>
+  <a href="https://www.youtube.com/@z3no2301">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+</div>
 </p>
 
 
