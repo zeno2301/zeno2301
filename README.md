@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="100"/>
-</div>
-
+<iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="295" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z">via GIPHY</a></p>
 
 <!--
 **zeno2301/zeno2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
