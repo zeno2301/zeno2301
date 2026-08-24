@@ -3,13 +3,17 @@
 </div>
 
 <p align="center">
+  <!-- Бадж Telegram -->
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram Badge"/>
   </a>
+  
+  <!-- Бадж YouTube -->
   <a href="https://youtube.com" target="_blank">
     <img src="https://shields.io" alt="YouTube Badge"/>
   </a>
 </p>
+
 
 
 
