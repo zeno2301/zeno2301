@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Бадж Telegram -->
-  <a href="https://t.me" target="_blank" style="margin: 0 10px; text-decoration: none;">
+  <a href="https://t.me/itsszeno" target="_blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://jsdelivr.net" alt="Telegram" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   
