@@ -2,17 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- Бадж Telegram -->
+<p align="center">
   <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram Badge"/>
   </a>
-  
-  <!-- Бадж YouTube -->
   <a href="https://youtube.com" target="_blank">
     <img src="https://shields.io" alt="YouTube Badge"/>
   </a>
-</div>
+</p>
+
 
 
 <!--
